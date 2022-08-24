@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Zookeeper.Topics-Boolean_and_logical_operations-Go_to_the_store.main" target="11" />
+      <module name="Zookeeper.Topics-Boolean_and_logical_operations-Peirce's_arrow.main" target="11" />
+      <module name="Zookeeper.Topics-Boolean_and_logical_operations-Program_a_Boolean_function.main" target="11" />
+      <module name="Zookeeper.Topics-Boolean_and_logical_operations-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Ranges-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Ranges-Within_both_ranges.main" target="11" />
+      <module name="Zookeeper.util.main" target="11" />
+      <module name="Zookeeper.Zookeeper-task-build-classes-kotlin.main" target="11" />
+      <module name="Zookeeper.Zookeeper-task-build-reports-tests.main" target="11" />
+      <module name="Zookeeper.Zookeeper-task-build-test-results.main" target="11" />
+      <module name="Zookeeper.Zookeeper-task-build-tmp.main" target="11" />
+      <module name="Zookeeper.Zookeeper-task.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
